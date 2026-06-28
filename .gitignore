@@ -1,0 +1,8 @@
+# macOS junk
+.DS_Store
+._*
+
+# large source materials (not part of the site)
+資料/
+*.pdf
+*.textClipping
